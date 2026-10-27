@@ -1,0 +1,93 @@
+version = 1
+
+# Each file keeps its own license: this repository has none of its own (ADR 51).
+
+[[annotations]]
+path = "govinfo/us-code-2023-title42.pdf"
+precedence = "override"
+SPDX-FileCopyrightText = "Office of the Law Revision Counsel, U.S. House of Representatives, \"United States Code, 2023 Edition, Title 42 - The Public Health and Welfare\", published by the U.S. Government Publishing Office, https://www.govinfo.gov/app/details/USCODE-2023-title42"
+SPDX-License-Identifier = "LicenseRef-us-government-work"
+
+[[annotations]]
+path = "ipres2017/radar-10.22000-53-v1.tar"
+precedence = "override"
+SPDX-FileCopyrightText = "Michelle Lindlar (TIB), Yvonne Tunnat (ZBW) and Carl Wilson (OPF), \"Synthetic PDF Testset for File Format Validation\", RADAR, 2017, doi:10.22000/53, https://doi.org/10.22000/53, CC BY-SA 4.0"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "ocrmypdf/epson-scan-indirect-rotate.pdf"
+precedence = "override"
+SPDX-FileCopyrightText = "Contributors to the English Wikipedia article \"Optical character recognition\" (revision of 2016-09-14, history: https://en.wikipedia.org/w/index.php?title=Optical_character_recognition&action=history); printed and scanned by James R. Barlow as OCRmyPDF test resource \"tests/resources/epson.pdf\", https://github.com/ocrmypdf/OCRmyPDF, CC BY-SA 3.0"
+SPDX-License-Identifier = "CC-BY-SA-3.0"
+
+[[annotations]]
+path = "ocrmypdf/kodak-capture-scan-broken-outline.pdf"
+precedence = "override"
+SPDX-FileCopyrightText = "James R. Barlow (C) 2025, OCRmyPDF test resource \"tests/resources/kcs.pdf\", https://github.com/ocrmypdf/OCRmyPDF, CC BY-SA 4.0"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "ocrmypdf/photoshop-cc2015-pdfx3-cmyk.pdf"
+precedence = "override"
+SPDX-FileCopyrightText = "James R. Barlow (C) 2025, OCRmyPDF test resource \"tests/resources/cmyk.pdf\", https://github.com/ocrmypdf/OCRmyPDF, CC BY-SA 4.0"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "ocrmypdf/tiff2pdf-35000px-ccitt-image.pdf"
+precedence = "override"
+SPDX-FileCopyrightText = "James R. Barlow (C) 2025, OCRmyPDF test resource \"tests/resources/hugemono.pdf\", https://github.com/ocrmypdf/OCRmyPDF, CC BY-SA 4.0"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "opf-format-corpus/pdfmaker81-word-va-kernel-systems-guide.pdf"
+precedence = "override"
+SPDX-FileCopyrightText = "Department of Veterans Affairs, Office of Information & Technology, \"Kernel Systems Management Guide, Version 8.0\" (VistA, revised June 2008), via GovDocs1 / the OPF format-corpus, https://github.com/openpreserve/format-corpus"
+SPDX-License-Identifier = "LicenseRef-us-government-work"
+
+[[annotations]]
+path = "opf-format-corpus/pdfmaker9-word-distiller-embedded-avi.pdf"
+precedence = "override"
+SPDX-FileCopyrightText = "Johan van der Knijff (Koninklijke Bibliotheek), \"embedded_video_avi.pdf\", Open Preservation Foundation format-corpus, https://github.com/openpreserve/format-corpus/tree/master/pdfCabinetOfHorrors, CC0 1.0"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "pdf20examples/handwritten-pdf20-utf8-strings.pdf"
+precedence = "override"
+SPDX-FileCopyrightText = "PDF Association (Peter Wyatt), \"pdf20-utf8-test.pdf\", https://github.com/pdf-association/pdf20examples, CC BY-SA 4.0"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "py-pdf-sample-files/google-docs-document.pdf"
+precedence = "override"
+SPDX-FileCopyrightText = "Martin Thoma and the py-pdf/sample-files contributors, \"google-doc-document.pdf\" (011-google-doc-document), https://github.com/py-pdf/sample-files, CC BY-SA 4.0; snake emoji from Google's Noto Emoji, Copyright Google Inc., Apache-2.0"
+SPDX-License-Identifier = "CC-BY-SA-4.0 AND Apache-2.0"
+
+[[annotations]]
+path = "py-pdf-sample-files/pdftex-outline.pdf"
+precedence = "override"
+SPDX-FileCopyrightText = "Martin Thoma and the py-pdf/sample-files contributors, \"pdflatex-outline.pdf\" (006-pdflatex-outline), https://github.com/py-pdf/sample-files, CC BY-SA 4.0"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "py-pdf-sample-files/weasyprint-arabic.pdf"
+precedence = "override"
+SPDX-FileCopyrightText = "Daniel Kahn Gillmor (dkg) and the py-pdf/sample-files contributors, \"habibi.pdf\" (015-arabic), https://github.com/py-pdf/sample-files, CC BY-SA 4.0"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "py-pdf-sample-files/wkhtmltopdf-qt5-html-page.pdf"
+precedence = "override"
+SPDX-FileCopyrightText = "Martin Thoma and the py-pdf/sample-files contributors, \"pdfkit.pdf\" (022-pdfkit), https://github.com/py-pdf/sample-files, CC BY-SA 4.0"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "usgs/us-topo-washington-west-2023.pdf"
+precedence = "override"
+SPDX-FileCopyrightText = "U.S. Geological Survey, \"Washington West, DC-MD-VA US Topo 7.5-minute quadrangle, 2023\", https://www.usgs.gov/programs/national-geospatial-program/us-topo-maps-america"
+SPDX-License-Identifier = "LicenseRef-us-government-work"
+
+[[annotations]]
+path = ["README.md", "REUSE.toml"]
+precedence = "override"
+SPDX-FileCopyrightText = "AdCodicem"
+SPDX-License-Identifier = "MIT"
