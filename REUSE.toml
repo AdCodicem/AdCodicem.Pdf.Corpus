@@ -3,6 +3,18 @@ version = 1
 # Each file keeps its own license: this repository has none of its own (ADR 51).
 
 [[annotations]]
+path = "canada/livecycle-es10-ircc-imm1344-certified-dynamic-xfa.pdf"
+precedence = "override"
+SPDX-FileCopyrightText = "© His Majesty the King in right of Canada, represented by Immigration, Refugees and Citizenship Canada: \"IMM 1344 (06-2019) E: Application to Sponsor, Sponsorship Agreement and Undertaking\", a copy of the version available at https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/kits/forms/imm1344e.pdf (Internet Archive capture of 2020-11-11)"
+SPDX-License-Identifier = "LicenseRef-canada-crown-copyright-non-commercial"
+
+[[annotations]]
+path = "canada/livecycle-es9-cfia-fish-export-license-dynamic-xfa.pdf"
+precedence = "override"
+SPDX-FileCopyrightText = "© His Majesty the King in right of Canada, represented by the Canadian Food Inspection Agency: \"CFIA / ACIA 5704 (2013/01): Application for a Fish Export Licence\", a copy of the version available on the CFIA website at https://inspection.canada.ca/DAM/DAM-food-aliments/STAGING/text-texte/c5704_re_1357758804123_eng.pdf (Internet Archive capture of 2021-06-09)"
+SPDX-License-Identifier = "LicenseRef-canada-crown-copyright-non-commercial"
+
+[[annotations]]
 path = "govinfo/us-code-2023-title42.pdf"
 precedence = "override"
 SPDX-FileCopyrightText = "Office of the Law Revision Counsel, U.S. House of Representatives, \"United States Code, 2023 Edition, Title 42 - The Public Health and Welfare\", published by the U.S. Government Publishing Office, https://www.govinfo.gov/app/details/USCODE-2023-title42"

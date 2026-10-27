@@ -21,11 +21,18 @@ does not reach them.
 - **A file over 100 MB** is an asset of an immutable release rather than a file in git.
 - A document found not to be covered by its license is removed, its history included, and returns to its
   publisher. To raise one, open an issue in AdCodicem.Pdf.
+- **Nothing here is offered for sale or for any fee.** Some files — the Government of Canada's forms under `canada/` —
+  may be reproduced for public non-commercial purposes only: they are unmodified copies, not official versions,
+  their presence here implies no affiliation with or endorsement by the Government of Canada, and they may not be
+  sold or redistributed commercially without the permission of the institution that published them
+  ([`LICENSES/LicenseRef-canada-crown-copyright-non-commercial.txt`](LICENSES/LicenseRef-canada-crown-copyright-non-commercial.txt)).
 
-## The documents (15 files, 102 documents)
+## The documents (17 files, 104 documents)
 
 | File | License | Attribution | Publisher | Where |
 |---|---|---|---|---|
+| `canada/livecycle-es10-ircc-imm1344-certified-dynamic-xfa.pdf` | LicenseRef-canada-crown-copyright-non-commercial | © His Majesty the King in right of Canada, represented by Immigration, Refugees and Citizenship Canada: "IMM 1344 (06-2019) E: Application to Sponsor, Sponsorship Agreement and Undertaking"; a copy of the version available at https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/kits/forms/imm1344e.pdf, as the Internet Archive captured it on 2020-11-11 | https://web.archive.org/web/20201111224144id_/https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/kits/forms/imm1344e.pdf | this tree |
+| `canada/livecycle-es9-cfia-fish-export-license-dynamic-xfa.pdf` | LicenseRef-canada-crown-copyright-non-commercial | © His Majesty the King in right of Canada, represented by the Canadian Food Inspection Agency: "CFIA / ACIA 5704 (2013/01): Application for a Fish Export Licence"; a copy of the version available on the CFIA website at https://inspection.canada.ca/DAM/DAM-food-aliments/STAGING/text-texte/c5704_re_1357758804123_eng.pdf, as the Internet Archive captured it on 2021-06-09 | https://web.archive.org/web/20210609130056id_/https://inspection.canada.ca/DAM/DAM-food-aliments/STAGING/text-texte/c5704_re_1357758804123_eng.pdf | this tree |
 | `govinfo/us-code-2023-title42.pdf` | LicenseRef-us-government-work | Office of the Law Revision Counsel, U.S. House of Representatives, "United States Code, 2023 Edition, Title 42 - The Public Health and Welfare", published by the U.S. Government Publishing Office, https://www.govinfo.gov/app/details/USCODE-2023-title42 | https://www.govinfo.gov/content/pkg/USCODE-2023-title42/pdf/USCODE-2023-title42.pdf | this tree |
 | `ipres2017/radar-10.22000-53-v1.tar` | CC-BY-SA-4.0 | Michelle Lindlar (TIB), Yvonne Tunnat (ZBW) and Carl Wilson (OPF), "Synthetic PDF Testset for File Format Validation", RADAR, 2017, doi:10.22000/53, https://doi.org/10.22000/53, CC BY-SA 4.0 | https://www.radar-service.eu/radar-backend/archives/JtlOdwQquZWDqQdq/versions/1/content | this tree |
 | `ocrmypdf/epson-scan-indirect-rotate.pdf` | CC-BY-SA-3.0 | Contributors to the English Wikipedia article "Optical character recognition" (revision of 2016-09-14, history: https://en.wikipedia.org/w/index.php?title=Optical_character_recognition&action=history); printed and scanned by James R. Barlow as OCRmyPDF test resource "tests/resources/epson.pdf", https://github.com/ocrmypdf/OCRmyPDF, CC BY-SA 3.0 | https://raw.githubusercontent.com/ocrmypdf/OCRmyPDF/e59d7627dd7f4e17d117b24f1c636dc37789fa93/tests/resources/epson.pdf | this tree |

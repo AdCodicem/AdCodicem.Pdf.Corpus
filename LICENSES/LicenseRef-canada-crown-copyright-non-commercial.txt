@@ -1,0 +1,23 @@
+Government of Canada: Crown copyright, non-commercial reproduction
+
+Files under this identifier are Crown copyright material of the Government of Canada. They are reproduced here
+verbatim, for public non-commercial purposes - distributed to the public at large, free of charge - under the terms
+the publishing institutions state for their material:
+
+- Canada.ca, "Terms and conditions" (https://www.canada.ca/en/transparency/terms.html): "Unless otherwise specified
+  you may reproduce the materials in whole or in part for non-commercial purposes", provided you exercise due
+  diligence in ensuring the accuracy of the materials reproduced, indicate the complete title of the materials
+  reproduced and the author (where available), and indicate that the reproduction is a copy of the version
+  available at the stated location. Reproduction for the purposes of commercial redistribution requires prior
+  written permission.
+- Canadian Food Inspection Agency, "Applying for Crown copyright clearance to use CFIA material"
+  (https://inspection.canada.ca/en/about-cfia/applying-crown-copyright): material may be reproduced without
+  clearance for public non-commercial purposes, "in the manner that it is originally published", provided it is
+  accurate, its complete title and author are indicated, it is shown to be available on the CFIA website, and it
+  is reproduced "without affiliation with or endorsement from the Government of Canada". Revising, adapting or
+  translating, and any commercial distribution, always require clearance.
+
+Accordingly, each such file here is an unmodified copy, named in README.md with its complete title, its author and
+the address of the version it copies. These copies are not official versions, and their presence here implies no
+affiliation with, or endorsement by, the Government of Canada. They may not be sold or redistributed commercially
+without the permission of the institution that published them.
